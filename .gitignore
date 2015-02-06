@@ -1,0 +1,27 @@
+# Ignore everything
+/*
+
+# Allow .gitignore
+!.gitignore
+
+# Allow mods folder
+!/mods
+
+# Ignore .rar files left lying around in /mods/
+/mods/*.rar
+
+# Only allow sbboot.config from platform directories
+!/linux32
+/linux32/*
+!/linux64
+/linux64/*
+!/osx
+/osx/*
+!/win32
+/win32/*
+!/win64
+/win64/*
+!/*/sbboot.config
+
+# Allow chgrp.sh
+!/chgrp.sh
