@@ -7,8 +7,11 @@
 # Allow mods folder
 !/mods
 
-# Ignore .rar files left lying around in /mods/
+# Ignore archive files left lying around in /mods/
 /mods/*.rar
+/mods/*.zip
+/mods/*.7z
+/mods/*.tar
 
 # Only allow sbboot.config from platform directories
 !/linux32
