@@ -1,0 +1,9 @@
+[
+    { "op" : "add", "path" : "/genders/0/shirt/-", "value" : "nudechest" },
+    { "op" : "add", "path" : "/genders/0/pants/-", "value" : "nudepants" },
+    { "op" : "add", "path" : "/genders/0/pants/-", "value" : "underpants" },
+    { "op" : "add", "path" : "/genders/1/shirt/-", "value" : "nudechest" },
+    { "op" : "add", "path" : "/genders/1/pants/-", "value" : "nudepants" },
+    { "op" : "add", "path" : "/genders/1/shirt/-", "value" : "underchest" },
+    { "op" : "add", "path" : "/genders/1/pants/-", "value" : "underpants" }
+]
