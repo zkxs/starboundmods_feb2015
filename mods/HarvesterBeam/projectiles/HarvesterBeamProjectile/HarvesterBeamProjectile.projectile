@@ -1,0 +1,16 @@
+{
+"projectileName" : "HarvesterBeamProjectile",
+"frames" : "HarvesterBeamImage.png",
+"animationCycle" : 0.01,
+"level" : 3,
+"timeToLive" : 0.7,
+"energyCostPerDamagePoint" : 0.01,
+"frameNumber" : 1,
+"damageKindImage" : "HarvesterBeamIcon.png",
+"pointLight" : false,
+"actionOnReap" : [{"action" : "config","file" : "/projectiles/HB.config"}],
+"power" : 0.0,
+"damageType" : "NoDamage",
+"harvestLevel" : 99,
+"damageKind" : "default"
+}

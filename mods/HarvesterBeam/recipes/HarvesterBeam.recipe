@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "steelbar", "count" : 10 },
+    { "item" : "cropprogram", "count" : 1 },
+    { "item" : "uraniumcore", "count" : 1 },
+    { "item" : "diamond", "count" : 1 }
+  ],
+  "output" : { "item" : "HarvesterBeam", "count" : 1 },
+  "groups" : [ "roboticcraftingtable", "tools", "all" ]
+}
