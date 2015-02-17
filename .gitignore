@@ -8,25 +8,13 @@
 !/*_storage
 /*_storage/*
 !/*_storage/mods
+/*_storage/mods/mods_go_here
 
 # Ignore archive files left lying around in /mods/
 /*_storage/mods/*.rar
 /*_storage/mods/*.zip
 /*_storage/mods/*.7z
 /*_storage/mods/*.tar
-
-# Only allow sbboot.config from platform directories
-!/linux32
-/linux32/*
-!/linux64
-/linux64/*
-!/osx
-/osx/*
-!/win32
-/win32/*
-!/win64
-/win64/*
-!/*/sbboot.config
 
 # Allow chgrp.sh
 !/chgrp.sh
