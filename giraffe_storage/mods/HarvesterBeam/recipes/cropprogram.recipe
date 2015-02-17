@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "wire", "count" : 1 },
+    { "item" : "circuitboard", "count" : 1 },
+    { "item" : "processor", "count" : 1 }
+  ],
+  "output" : { "item" : "cropprogram", "count" : 1 },
+  "groups" : [ "wiringstation", "all" ]
+}

@@ -1,0 +1,7 @@
+{
+  "itemName" : "uraniumcore",
+  "rarity" : "uncommon",
+  "inventoryIcon" : "uraniumcore.png",
+  "description" : "It's a laser diode powered by uranium.",
+  "shortdescription" : "Uranium Core"
+}

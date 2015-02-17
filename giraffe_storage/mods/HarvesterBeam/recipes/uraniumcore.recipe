@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "uraniumrod", "count" : 2 },
+    { "item" : "laserdiode", "count" : 1 }
+  ],
+  "output" : { "item" : "uraniumcore", "count" : 1 },
+  "groups" : [ "wiringstation", "all" ]
+}
