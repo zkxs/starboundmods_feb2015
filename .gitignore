@@ -12,6 +12,10 @@
 /mods/*.zip
 /mods/*.7z
 /mods/*.tar
+/*_storage/mods/*.rar
+/*_storage/mods/*.zip
+/*_storage/mods/*.7z
+/*_storage/mods/*.tar
 
 # Only allow sbboot.config from platform directories
 !/linux32

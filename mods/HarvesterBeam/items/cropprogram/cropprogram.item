@@ -1,7 +1,0 @@
-{
-  "itemName" : "cropprogram",
-  "rarity" : "Common",
-  "inventoryIcon" : "cropprogram.png",
-  "description" : "It lets the harvester recognize crops.",
-  "shortdescription" : "Harvester Program Board"
-}
